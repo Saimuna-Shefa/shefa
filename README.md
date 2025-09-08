@@ -28,7 +28,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: *[your email here]*  
+- 📧 Email: *[saimunashefa@gmail.com]*  
 - 💼 LinkedIn: *[your LinkedIn link]*  
 - 🐦 Twitter/X: *[your Twitter handle if any]*  
 
