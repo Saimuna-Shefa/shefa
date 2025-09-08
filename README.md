@@ -1,37 +1,21 @@
-# Hi there 👋, I'm Saimuna Shefa  
+# 🌸 Hey there, I'm Saimuna Shefa 🌸  
 
-🎓 3rd-year Computer Science Student | 💻 Passionate about Research & Development | 🌱 Exploring Practical Projects  
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on: **E-Tender Management System**  
-- 🌱 Learning: **C++ (for problem-solving & logic building)** and **PHP (for web development)**  
-- 📊 Research Interests: **Autism detection**, **Budget management apps**, **Software project development**  
-- 🌱 Personal Interests: Indoor plants 🌿, cooking 🍳, and poultry farming 🦆  
+✨ *"Code, Research, and a little bit of Creativity"* ✨  
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** C, C++, PHP, HTML, CSS, JavaScript, SQL  
-- **Databases:** MySQL  
-- **Tools:** Git, Canva, MS Excel, PowerPoint  
-- **Concepts:** SDLC, ER Diagrams, Normalization, Flow Networks (Ford-Fulkerson)  
+## 👩‍💻 About Me
+🎓 3rd-year Computer Science Student  
+💡 Passionate about **Research & Development**  
+🌱 Currently exploring **Practical Projects & Problem Solving**  
+💖 Beyond tech: Indoor plants 🌿 | Cooking 🍳 | Duck farming 🦆  
 
 ---
 
-## 📂 Featured Projects
-- 📝 **E-Tender Management System** – A web-based solution for online tendering  
-- 💰 **Budget Tracker App** – Helps track income & expenses effectively  
-- 🧩 **Research on Autism Detection** – Exploring computational approaches  
+## 🚀 Current Focus
+- Learning: **C++ for logic building** & **PHP for web development**  
+- Researching: **Autism detection** and **Smart apps for daily life**  
 
 ---
 
-## 🌐 Connect with Me
-- 📧 Email: *[saimunashefa@gmail.com]*  
-- 💼 LinkedIn: *[your LinkedIn link]*  
-- 🐦 Twitter/X: *[your Twitter handle if any]*  
-
----
-
-⭐️ From [Saimuna Shefa](https://github.com/your-username)
+## 🛠️ Tech Toolbox
